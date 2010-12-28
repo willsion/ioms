@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 #labels ioms,python
 
-= Introduction =
+= 简介 =
 
 作者：china.hawkli@gmail.com
 当前原型完成版本：1.03_2010.12.28.
@@ -13,7 +13,7 @@
 
 2011年9月－12月之间，代码完全开源。由于这个项目与我的研究生论文有关，因此开源时间与论文答辩完成的日期有直接关系，勿催。
 
-= Details =
+= 正文 =
 
 *IOMS系统设计目标：*
 
