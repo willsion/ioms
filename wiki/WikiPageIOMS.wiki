@@ -58,7 +58,7 @@ windows下使用py2exe打包，linux下计划使用pyinstall打包。
 
 ==IOMS安装部署说明==
 
-参见下载区文档《IOMS系统安装手册(alpha测试版)_V1.0.pdf》
+参见下载区文档[http://ioms.googlecode.com/files/IOMS%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%89%8B%E5%86%8C%28alpha%E6%B5%8B%E8%AF%95%E7%89%88%29_V1.0.pdf IOMS系统安装手册(alpha测试版)_V1.0.pdf]
 
 ===关于作者===
 
