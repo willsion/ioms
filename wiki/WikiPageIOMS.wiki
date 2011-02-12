@@ -63,4 +63,5 @@ windows下使用py2exe打包，linux下计划使用pyinstall打包。
 ===关于作者===
 
 HAWK.Li
+
 e-mail: china.hawkli@gmail.com
