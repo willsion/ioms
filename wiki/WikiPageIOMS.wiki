@@ -9,7 +9,7 @@
 
 多个BUG都已经修复，已经开始着手更改代码使增加使用者的方便性，并提供了内部测试版本给其他人员小规模试用。
 
-alpha版本在近日即将放出，alpha存在的BUG已经在issues里列出，正在逐项修订中，其他未知BUG请大家指出。
+alpha版本已经在2011年2月17日发布，下载链接见后。alpha存在的BUG已经在issues里列出，正在逐项修订中，其他未知BUG请大家指出。
 
 alpha版本将适用于业内人士，网络环境建议是在20台以下的windows 2003简体中文版本，不建议在生产环境使用，不建议对安全性要求很高的场所使用。
 
@@ -59,6 +59,8 @@ windows下使用py2exe打包，linux下计划使用pyinstall打包。
 ==IOMS安装部署说明==
 
 参见下载区文档
+
+[http://ioms.googlecode.com/files/IOMS_V1.10_alpha_20110216.zip IOMSV1.10_alpha版本安装文件]
 
 [http://ioms.googlecode.com/files/IOMS%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%89%8B%E5%86%8C%28alpha%E6%B5%8B%E8%AF%95%E7%89%88%29_201102.pdf IOMS系统安装手册(alpha测试版)_V1.0.pdf]
 
