@@ -9,12 +9,18 @@ IOMS1.5版本 已经开源，源代码已经放出，请自行使用SVN下载[ht
 
 2012－3－19
 今天放出了除了Agent4Linux的其他所有版本，Linux版本因为还有一些编译上的问题，故还未放出，近日解决后再放出。
+
+
 1.5版本可以使用，但仍然有不少小错误，已知的错误大约有：
 1.IOMSUI在使用过程中会莫名的显示错误，只有重启IOMSUI才能解决；
 2.IOMSUI有时退出会不能自释放，只能在任务管理器中杀掉进程；
 3.发送命令给agent时，因为windows本身的一些原因，有些命令执行了一半就会认为已经结束，例如对windows目录进行dir，此问题已经想到一个解决办法，只时间再改；
-4.
+4.当前windows下取不到硬盘信息，这是因为WMI不支持交互式认证或相关的原因，此问题头疼中；
+5.在自更新agent时，因为设计缺陷，如果正好在每分钟的0秒时有可能更新不完整或更新失败；
+6.其他各种小问题。
 
+
+目前文档提供了安装手册和使用手册，正在撰写环境配置和编译手册，以及WIKI版本的全部手册。
 
 *后续开发内容*
 
@@ -25,6 +31,8 @@ IOMS1.5版本 已经开源，源代码已经放出，请自行使用SVN下载[ht
 2011年2月17日放出alpha版本。
 
 2011年9月完成1.30版本，主要对界面做了大幅变动，未对外发布。
+
+2012年3月放出1.5版本，针对1.30版本进行开源化整合，为开源的第一个release。
 
 1.10起的版本在现场多台服务器上已经运行了1年多，性能稳定，占用资源很少。
 
@@ -55,11 +63,10 @@ windows下使用py2exe打包，linux目前使用pyinstaller打包。
 
 参见下载区文档
 
-[http://ioms.googlecode.com/files/IOMS_V1.10_alpha_20110216.zip IOMSV1.10_alpha版本安装文件]
+[https://ioms.googlecode.com/svn/trunk/document/IOMS系统使用手册(1.5)_20120312.pdf IOMS系统使用手册(1.5)_20120312.pdf]
 
-[http://ioms.googlecode.com/files/IOMS%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%89%8B%E5%86%8C%28alpha%E6%B5%8B%E8%AF%95%E7%89%88%29_201102.pdf IOMS系统安装手册(alpha测试版)_V1.0.pdf]
 
-[http://ioms.googlecode.com/files/IOMS%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%28alpha%E6%B5%8B%E8%AF%95%E7%89%88%29_201102.pdf IOMS系统使用手册(alpha测试版)_V1.0.pdf]
+[https://ioms.googlecode.com/svn/trunk/document/IOMS%e7%b3%bb%e7%bb%9f%e5%ae%89%e8%a3%85%e6%89%8b%e5%86%8c(1.5)_20120312.pdf IOMS系统安装手册(1.5)_20120312.pdf]
 
 ===关于作者===
 
