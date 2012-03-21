@@ -86,13 +86,13 @@ windows下使用py2exe打包，linux目前使用pyinstaller打包。
 
 参见下载区文档
 
-[https://ioms.googlecode.com/svn/trunk/document/IOMS系统使用手册(1.5)_20120312.pdf IOMS系统使用手册(1.5)_20120312.pdf]
+[http://ioms.googlecode.com/files/IOMS%E7%B3%BB%E7%BB%9F%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%281.5%29_20120312.pdf IOMS系统使用手册(1.5)_20120312.pdf]
 
 
-[https://ioms.googlecode.com/svn/trunk/document/IOMS%e7%b3%bb%e7%bb%9f%e5%ae%89%e8%a3%85%e6%89%8b%e5%86%8c(1.5)_20120312.pdf IOMS系统安装手册(1.5)_20120312.pdf]
+[http://ioms.googlecode.com/files/IOMS%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E6%89%8B%E5%86%8C%281.5%29_20120312.pdf IOMS系统安装手册(1.5)_20120312.pdf]
 
 
-[http://code.google.com/p/ioms/downloads/detail?name=IOMS%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%92%8C%E7%BC%96%E8%AF%91%281.5%29_20120320.pdf&can=2&q= IOMS系统开发环境配置和编译(1.5)_20120320.pdf]
+[http://ioms.googlecode.com/files/IOMS%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E5%92%8C%E7%BC%96%E8%AF%91%281.5%29_20120320.pdf IOMS系统开发环境配置和编译(1.5)_20120320.pdf]
 ===关于作者===
 
 HAWK.Li
