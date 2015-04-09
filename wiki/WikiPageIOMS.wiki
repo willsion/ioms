@@ -5,6 +5,8 @@
 
 IOMS1.5版本 已经开源，源代码已经放出，请自行使用SVN下载[https://ioms.googlecode.com/svn/trunk/  SVN下载地址]
 
+IOMS已经停止更新，同样的工作可以使用saltstack来完成，大家可以使用saltstack来完成IOMS实现的一切功能。
+
 ==当前版本情况介绍==
 
 2012－3－20
